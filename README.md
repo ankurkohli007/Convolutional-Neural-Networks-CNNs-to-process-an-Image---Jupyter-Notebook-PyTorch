@@ -55,12 +55,4 @@ This repository demonstrates the implementation of Convolutional Neural Networks
 
 Contributions are welcome! If you'd like to improve this project, feel free to fork the repository and submit a pull request.
 
-
-## Contact
-
-For any inquiries or discussions, reach out to:
-
-Ankur Kohli  
-Email: [ankurkohli007@example.com](mailto:ankurkohli007@gmail.com)
-
 PS: The above project is to get started with convolutional neural networks (CNNs) to process an image - Jupyter Notebook/PyTorch
